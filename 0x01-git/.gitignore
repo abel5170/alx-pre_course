@@ -1,2 +1,9 @@
-bash/
-.c/c_is_fun.c
+*.DS_Store
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
